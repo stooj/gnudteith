@@ -1,5 +1,8 @@
 Django==1.11.7
+django-filter==1.1.0
+djangorestframework==3.7.3
 greenlet==0.4.12
+Markdown==2.6.9
 msgpack-python==0.4.8
 neovim==0.1.13
 pytz==2017.3
