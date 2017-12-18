@@ -18,7 +18,7 @@ def get_readme_file_as_string():
 setup(
     name='gnudteith',
     version='0.0.1',
-    url='https://odo.stooj.org/goodteith/gnudteith',
+    url='https://gitlab.com/goodteith/gnudteith',
     licence='GPL',
     author='Stoo Johnston',
     author_email='stoo@goodteith.scot',
